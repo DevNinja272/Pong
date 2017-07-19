@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebPong.data.unityweb",
+"asmCodeUrl": "WebPong.asm.code.unityweb",
+"asmMemoryUrl": "WebPong.asm.memory.unityweb",
+"asmFrameworkUrl": "WebPong.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
